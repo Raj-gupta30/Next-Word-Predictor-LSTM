@@ -1,7 +1,4 @@
-# Next-Word-Predictor-LSTM-s
-Built an LSTM-based next-word prediction model using TensorFlow/Keras on a large-scale news dataset, implementing text preprocessing, tokenization, embeddings, and sequence modeling for predictive text generation.
-
-# Next Word Prediction using LSTM
+## Next Word Prediction using LSTM
 
 A Natural Language Processing (NLP) project that predicts the next word in a sentence using Long Short-Term Memory (LSTM) networks. The model is trained on the HuffPost News Category Dataset and learns contextual relationships between words to generate meaningful text continuations.
 
