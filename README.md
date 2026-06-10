@@ -22,6 +22,9 @@ The model is trained on:
 
 A sample of 20,000 news articles is used for training.
 
+Dataset Source:
+https://www.kaggle.com/datasets/rmisra/news-category-dataset
+
 ## Model Architecture
 
 Input Layer
